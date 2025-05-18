@@ -31,18 +31,36 @@ class CfgMods
 		version = "1.0";
 		extra = 0;
 		type = "mod";
-		dependencies[] =
+		dependencies[]=
 		{
-			"World"
+			"Game",
+			"World",
+			"Mission"
 		};
 		class defs
 		{
+			class gameScriptModule
+			{
+				value="";
+				files[]=
+				{
+					"gebsfish\scripts\3_Game"
+				};
+			};
 			class worldScriptModule
+			{
+				value="";
+				files[]=
+				{
+					"gebsfish\scripts\4_world"
+				};
+			};
+			class missionScriptModule
 			{
 				value = "";
 				files[] =
 				{
-					"BBPRE/scripts/4_world"
+					"gebsfish\scripts\5_mission"
 				};
 			};
 		};

@@ -5,8 +5,8 @@ SETLOCAL
 SET MakePboPath="C:\Program Files (x86)\Mikero\DePboTools\bin\MakePbo.exe"
 SET AddonBuilderPath="S:\SteamLibrary\steamapps\common\DayZ Tools\Bin\AddonBuilder\AddonBuilder.exe"
 
-SET ClientSource="P:\gebsfish"
-SET ClientOutput="P:\Mods\@gebsfish\Addons"
+SET ClientSource="P:\BBPRE"
+SET ClientOutput="P:\Mods\@BBPRE\Addons"
 
 @REM Run AddonBuilder to pack the mod files
 %AddonBuilderPath% %ClientSource% %ClientOutput% -packonly -clear
