@@ -1,0 +1,23 @@
+---------------------------------------------
+Log C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\Cherno\Profiles\script_2024-11-18_21-53-13.log started at 18.11. 21:53:13
+
+SCRIPT       : Registered 339 temporary action enum(s), UAN==339
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetPhysicsTimeStamp'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetPhysicsTimeStamp'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : string s =    'Module PluginConfigDebugProfile is not Registred in PluginManager.c!'
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    GetPlugin() scripts/4_World/plugins\pluginmanager.c : 330
+SCRIPT    (E):    OnInit() scripts/4_World/plugins\pluginbase\pluginitemdiagnostic.c : 104
+SCRIPT    (E):    PluginsInit() scripts/4_World/plugins\pluginmanager.c : 126
+SCRIPT    (E):    PluginManagerInit() scripts/4_World/plugins\pluginmanager.c : 293
+SCRIPT    (E):    MissionBase@202#1() scripts/5_Mission/mission\missionbase.c : 21
+SCRIPT    (E):    CreateCustomMission() C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Missions\Vanilla\dayzOffline.chernarusplus\init.c : 97
+SCRIPT    (E):    -----------------
+SCRIPT       : EOnClientPrepare: (identity=PlayerIdentity<7bace460>, use_db=1, position=0x00000000b0b30b50 {<0,0,0>}, yaw=0, preload_timeout=0)
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : Is player selected? false
+SCRIPT       : Is OnSelectPlayer temporarily disabled? false
+SCRIPT       : [DF][DEBUG][EventManager]: Sending In Progress info to SurvivorBase<97a3e300>

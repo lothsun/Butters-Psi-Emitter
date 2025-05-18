@@ -1,0 +1,157 @@
+---------------------------------------------
+Log C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\script_2024-11-18_21-54-57.log started at 18.11. 21:54:59
+
+SCRIPT       : Registered 339 temporary action enum(s), UAN==339
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetWaterTime'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.SetPhysicsTimeStamp'
+SCRIPT    (W): @"scripts/3_Game/entities\pawn.c,25": Missing script declaration for method 'PawnOwnerState.GetPhysicsTimeStamp'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : Creating Mission: mpmissions\__cur_mp.chernarusplus\mission.c
+SCRIPT       : string s =    'Module PluginConfigDebugProfile is not Registred in PluginManager.c!'
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    GetPlugin() scripts/4_World/plugins\pluginmanager.c : 330
+SCRIPT    (E):    OnInit() scripts/4_World/plugins\pluginbase\pluginitemdiagnostic.c : 104
+SCRIPT    (E):    PluginsInit() scripts/4_World/plugins\pluginmanager.c : 126
+SCRIPT    (E):    PluginManagerInit() scripts/4_World/plugins\pluginmanager.c : 293
+SCRIPT    (E):    MissionBase@202#1() scripts/5_Mission/mission\missionbase.c : 21
+SCRIPT    (E):    CreateMission() scripts/5_Mission/somemission.c : 36
+SCRIPT    (E):    -----------------
+SCRIPT       : SyncEvents -> RegisterEvents
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickAxe_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickSaw_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickKnife_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickMachete_SoundSet".
+SCRIPT       : Is player selected? false
+SCRIPT       : Is OnSelectPlayer temporarily disabled? false
+SCRIPT       : Is GUI reset disabled? false
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_concrete_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_grass_dry_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_hand_concrete_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_hand_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_hand_grass_dry_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_hand_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_slide_concrete_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_slide_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_slide_grass_dry_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "bodyfall_slide_gravel_small_ext_Zmb_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkProne_concrete_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkProne_gravel_small_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkProne_gravel_small_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_woodPlanks_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_woodPlanks_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_woodPlanks_int_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_woodPlanks_int_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_concrete_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_gravel_small_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_gravel_small_ext_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runProne_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "walkErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "sprintErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "scuffErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "landFeetErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "runErc_water_Zmb_Soundset".
+SCRIPT       : LIQUID 0 displayName='Beer' type=4096 className='Beer' color={0, 255, 165, 0}
+SCRIPT       : LIQUID 1 displayName='Diesel' type=16384 className='Diesel' color={0, 255, 255, 0}
+SCRIPT       : LIQUID 2 displayName='Disinfectant' type=32768 className='Disinfectant' color={0, 190, 190, 190}
+SCRIPT       : LIQUID 3 displayName='Gasoline' type=8192 className='Gasoline' color={0, 255, 255, 0}
+SCRIPT       : LIQUID 4 displayName='RiverWater' type=1024 className='RiverWater' color={0, 0, 238, 255}
+SCRIPT       : LIQUID 5 displayName='Saline' type=256 className='Saline' color={0, 0, 238, 255}
+SCRIPT       : LIQUID 6 displayName='Vodka' type=2048 className='Vodka' color={0, 190, 190, 190}
+SCRIPT       : LIQUID 7 displayName='Water' type=512 className='Water' color={0, 0, 238, 255}
+SCRIPT       : LIQUID 0 displayName='Beer' type=4096 className='Beer' color={0, 255, 165, 0}
+SCRIPT       : LIQUID 1 displayName='Diesel' type=16384 className='Diesel' color={0, 255, 255, 0}
+SCRIPT       : LIQUID 2 displayName='Disinfectant' type=32768 className='Disinfectant' color={0, 190, 190, 190}
+SCRIPT       : LIQUID 3 displayName='Gasoline' type=8192 className='Gasoline' color={0, 255, 255, 0}
+SCRIPT       : LIQUID 4 displayName='RiverWater' type=1024 className='RiverWater' color={0, 0, 238, 255}
+SCRIPT       : LIQUID 5 displayName='Saline' type=256 className='Saline' color={0, 0, 238, 255}
+SCRIPT       : LIQUID 6 displayName='Vodka' type=2048 className='Vodka' color={0, 190, 190, 190}
+SCRIPT       : LIQUID 7 displayName='Water' type=512 className='Water' color={0, 0, 238, 255}
+SCRIPT       : SurvivorBase<aaa58010> COT GodMode 1
+SCRIPT       : SurvivorBase<aaa58010> COT Unlimited Stamina 1
+SCRIPT       : SurvivorBase<aaa58010> COT Unlimited Ammo 1
+SCRIPT       : SurvivorBase<aaa58010> COT Admin NVG 1
+SCRIPT       : SurvivorBase<aaa58010> COT Admin NVG 0
+SCRIPT       : Creating Mission: dz\Worlds\ChernarusPlus\data\scenes\intro.ChernarusPlus\mission.c
+SCRIPT       : string s =    'Module PluginConfigDebugProfile is not Registred in PluginManager.c!'
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    GetPlugin() scripts/4_World/plugins\pluginmanager.c : 330
+SCRIPT    (E):    OnInit() scripts/4_World/plugins\pluginbase\pluginitemdiagnostic.c : 104
+SCRIPT    (E):    PluginsInit() scripts/4_World/plugins\pluginmanager.c : 126
+SCRIPT    (E):    PluginManagerInit() scripts/4_World/plugins\pluginmanager.c : 293
+SCRIPT    (E):    MissionBase@202#1() scripts/5_Mission/mission\missionbase.c : 21
+SCRIPT    (E):    CreateMission() scripts/5_Mission/somemission.c : 25
+SCRIPT    (E):    -----------------
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : SurvivorBase<aaa58010> COT GodMode 0
+SCRIPT       : SurvivorBase<aaa58010> COT Unlimited Ammo 0
+SCRIPT       : SurvivorBase<aaa58010> COT Unlimited Stamina 0
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : SurvivorBase<a6590eb0> COT GodMode 0
+SCRIPT       : SurvivorBase<a6590eb0> COT Unlimited Ammo 0
+SCRIPT       : SurvivorBase<a6590eb0> COT Unlimited Stamina 0
+SCRIPT       : ~DayZGame()

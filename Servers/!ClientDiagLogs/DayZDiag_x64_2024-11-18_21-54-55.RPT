@@ -1,0 +1,26 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe
+== "G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe" "-profiles=C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs" "-mod=P:\Mods\@CF;P:\Mods\@Dabs Framework;P:\Mods\@Community-Online-Tools;P:\Mods\@gebsfish;" -filePatching -connect=127.0.0.1 -port=2302 
+=====================================================================
+Exe timestamp: 2024/10/31 18:47:56
+Current time:  2024/11/18 21:54:59
+Version 1.26.158964
+=====================================================================
+
+21:54:59.88 [Inputs] Loading inputs default "bin/constants.xml"
+21:54:59.91 [Inputs] Loading inputs default "bin/specific.xml"
+21:54:59.92 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+21:54:59.93 [Inputs] Loading inputs cfg "C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\Users\Survivor\loths.core.xml"
+21:54:59.97 [Inputs] Exporting inputs cfg "C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\Users\Survivor\loths.core.xml"
+=======================================================
+-------------------------------------------------------
+Time: 22:29:33
+Exception code: C0000005 ACCESS_VIOLATION at 1133F693
+Version 1.26.158964
+Fault address:  1133F693 00:1133F693 Unknown module
+file:     intro
+world:    ChernarusPlus
+Prev. code bytes: 50 04 00 00 74 68 E8 E2 09 00 00 48 85 C0 75 5E
+Fault code bytes: 44 8B 47 F8 48 8D 57 F8 41 C1 E8 04 B8 0F 00 00
+=======================================================
+note: Minidump has been generated into the file C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\DayZDiag_x64_2024-11-18_22-29-33.mdmp

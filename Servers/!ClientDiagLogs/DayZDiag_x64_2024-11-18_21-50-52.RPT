@@ -1,0 +1,16 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe
+== "G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe" "-profiles=C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs" "-mod=P:\Mods\@CF;P:\Mods\@Dabs Framework;P:\Mods\@Community-Online-Tools;P:\Mods\@gebsfish;" -filePatching -connect=127.0.0.1 -port=2302 
+=====================================================================
+Exe timestamp: 2024/10/31 18:47:56
+Current time:  2024/11/18 21:50:58
+Version 1.26.158964
+=====================================================================
+
+21:50:58.595 [Inputs] Loading inputs default "bin/constants.xml"
+21:50:58.597 [Inputs] Loading inputs default "bin/specific.xml"
+21:50:58.599 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+21:50:58.599 [Inputs] Loading inputs cfg "bin/core.xml"
+21:50:58.599 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+21:50:58.601 [Inputs] Exporting inputs cfg "C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\Users\Survivor\loths.core.xml"
+21:52:43.823 [ErrorModuleHandler] :: Error thrown: 0x00040033 ()

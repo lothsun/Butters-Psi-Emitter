@@ -1,0 +1,14 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe
+== "G:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe" "-profiles=C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs" "-mod=P:\Mods\@CF;P:\Mods\@Dabs Framework;P:\Mods\@Community-Online-Tools;P:\Mods\@gebsfish;" -filePatching -connect=127.0.0.1 -port=2302 
+=====================================================================
+Exe timestamp: 2024/10/31 18:47:56
+Current time:  2024/11/18 21:53:15
+Version 1.26.158964
+=====================================================================
+
+21:53:15.64 [Inputs] Loading inputs default "bin/constants.xml"
+21:53:15.67 [Inputs] Loading inputs default "bin/specific.xml"
+21:53:15.68 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+21:53:15.69 [Inputs] Loading inputs cfg "C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\Users\Survivor\loths.core.xml"
+21:53:15.72 [Inputs] Exporting inputs cfg "C:\Users\loths\OneDrive\Documents\GitHub\Gebs-Fish\Servers\!ClientDiagLogs\Users\Survivor\loths.core.xml"
