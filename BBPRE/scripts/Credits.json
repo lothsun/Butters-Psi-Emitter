@@ -1,18 +1,14 @@
 {
     "Departments": [{
-        "DepartmentName": "Gebsfish",
+        "DepartmentName": "Butters Beyond Psi Emitter",
         "Sections": [
             {
-                "SectionName": "Developer",
-                "SectionLines": ["Geb/Pack-JC"]
+                "SectionName": "Author",
+                "SectionLines": ["Butters"]
             },
             {
-                "SectionName": "Bug Fixes/Additions/New Config System",
+                "SectionName": "Scripting Work",
                 "SectionLines": ["lothsun"]
-            },
-            {
-                "SectionName": "Other Contributions",
-                "SectionLines": ["Echo#4343" , "Doriiiiija" , "NekoSensei", "Gramps#4914" , "iiiii#5677"]
             }
         ]
     }]
