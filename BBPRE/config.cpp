@@ -44,7 +44,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"gebsfish\scripts\3_Game"
+					"BBPRE\scripts\3_Game"
 				};
 			};
 			class worldScriptModule
@@ -52,7 +52,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"gebsfish\scripts\4_world"
+					"BBPRE\scripts\4_World"
 				};
 			};
 			class missionScriptModule
@@ -60,7 +60,7 @@ class CfgMods
 				value = "";
 				files[] =
 				{
-					"gebsfish\scripts\5_mission"
+					"BBPRE\scripts\5_Mission"
 				};
 			};
 		};
