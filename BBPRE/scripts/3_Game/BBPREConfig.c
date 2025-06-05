@@ -75,7 +75,7 @@ class LogConf {
 //Save config data
 protected ref BBPREConfig m_BBPREConfig;
 // Helper function to return config data storage object
-static BBPREConfig GetGebSettingsConfig(){
+static BBPREConfig GetBBPRESettingsConfig(){
     if (!m_BBPREConfig){
         Print("[BBPRE] Initializing Butter's Beyond Psi Emitter.");
         Print("[BBPRE] Loading JSON config file. ");

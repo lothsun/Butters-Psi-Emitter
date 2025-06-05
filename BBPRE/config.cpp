@@ -117,5 +117,22 @@ class CfgVehicles
 				};
 			};
 		};
+
+		class EnergyManager {
+            hasIcon                  = 1;      // show battery icon in inventory
+            energyStorageMax         = 10000;  // max “charge” (in joules)
+            energyAtSpawn            = 0;      // start drained
+            convertEnergyToQuantity  = 1;      // tie into varQuantity bars (optional)
+            reduceMaxEnergyByDamageCoef = 1;   // damage → less capacity
+            energyUsagePerSecond     = 5;      // watts consumed when “on”
+            updateInterval           = 1;      // how often (sec) DeviceUpdate fires
+
+            // (optional—you only need these if you want sockets/cords)
+            plugType                 = 1;      // which socket type it uses
+            compatiblePlugTypes[]    = {1,2};  // generator/battery types it accepts
+            powerSocketsCount        = 1;      // how many sockets it exposes
+            cordLength               = 5;      // max cable length (m)
+            wetnessExposure          = 0;    // how quickly rain drains power
+        };
     };
 };

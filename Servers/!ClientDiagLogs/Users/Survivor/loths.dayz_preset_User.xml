@@ -1001,6 +1001,7 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="UAPlayerModuleFreezePlayer" />
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />
